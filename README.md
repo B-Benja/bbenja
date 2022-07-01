@@ -1,2 +1,2 @@
 # bbenja
-Personal website of Benjamin Buettner
+Personal website of Benjamin Buettner - Placeholder and currently empty
